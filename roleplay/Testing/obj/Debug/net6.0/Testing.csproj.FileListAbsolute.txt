@@ -1,0 +1,15 @@
+C:\Users\msft37\Downloads\roleplay\Testing\obj\Debug\net6.0\Testing.csproj.AssemblyReference.cache
+C:\Users\msft37\Downloads\roleplay\Testing\obj\Debug\net6.0\Testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msft37\Downloads\roleplay\Testing\obj\Debug\net6.0\Testing.AssemblyInfoInputs.cache
+C:\Users\msft37\Downloads\roleplay\Testing\obj\Debug\net6.0\Testing.AssemblyInfo.cs
+C:\Users\msft37\Downloads\roleplay\Testing\obj\Debug\net6.0\Testing.csproj.CoreCompileInputs.cache
+C:\Users\msft37\Downloads\roleplay\Testing\bin\Debug\net6.0\Testing.exe
+C:\Users\msft37\Downloads\roleplay\Testing\bin\Debug\net6.0\Testing.deps.json
+C:\Users\msft37\Downloads\roleplay\Testing\bin\Debug\net6.0\Testing.runtimeconfig.json
+C:\Users\msft37\Downloads\roleplay\Testing\bin\Debug\net6.0\Testing.dll
+C:\Users\msft37\Downloads\roleplay\Testing\bin\Debug\net6.0\Testing.pdb
+C:\Users\msft37\Downloads\roleplay\Testing\obj\Debug\net6.0\Testing.dll
+C:\Users\msft37\Downloads\roleplay\Testing\obj\Debug\net6.0\refint\Testing.dll
+C:\Users\msft37\Downloads\roleplay\Testing\obj\Debug\net6.0\Testing.pdb
+C:\Users\msft37\Downloads\roleplay\Testing\obj\Debug\net6.0\Testing.genruntimeconfig.cache
+C:\Users\msft37\Downloads\roleplay\Testing\obj\Debug\net6.0\ref\Testing.dll
